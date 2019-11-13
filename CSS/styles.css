@@ -1,0 +1,21 @@
+h1{
+    color: rgb(8, 26, 129);
+    text-align: center;
+}
+.column{
+    color: purple;
+}
+.column{
+    height: 300px;
+    width: 31%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid black;
+}
+main{
+    display: flex;
+}
+.photo{
+    height: 100px;
+    width: 100px;
+}
