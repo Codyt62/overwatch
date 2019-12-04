@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Open+Sans|Vollkorn&display=swap');
+ /* font-family: 'Indie Flower', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Vollkorn', serif; */
+nav{
+    position: sticky;
+    top: 0;
+    padding: 5px;
+}
+h1{
+    color: rgb(8, 26, 129);
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-weight: 900;
+    text-shadow: 2px 2px 2px #ff0000;
+}
+.bigletter{
+    font-size: 40px;
+}
+.column{
+    color: purple;
+}
+.column{
+    height: 200px;
+    width: 31%;
+    display: inline-flex;
+    text-align: center;
+    border: 5px solid black;
+}
+main{
+    display: inline-block
+}
+.photo{
+    height: 100px;
+    width: 100px;
+}
+.logo{
+    height: 200px;
+    width: 200px;
+}
+li{
+    display: block;
+    font-size: 20pt;
+    padding-top: 5px;
+}
+ul{
+    list-style-type: none;
+    margin-top: -200px;
+    float: right;
+    padding-right: 80px;
+
+}
+a{
+    color: black;
+    text-decoration: none;
+
+}
+a:hover{
+    background-color: red;
+    font-size: 36px;
+}
+.nextto{
+    height: 120px;
+    width: 22%;
+    display: inline-block;
+    text-align: center;
+}
+h4{
+    color: yellow;
+    background-color: black;
+    border-radius: 15px;
+    font-family: 'Indie Flower', cursive;
+}
+button{
+    float: right;
+    margin-top: 50px;
+}
+button:hover{
+    background-color:red;
+}
+a {
+    color: green
+}
+a:hover {
+    color: pink;
+    font-size: 40px;
+}
+iframe {
+    margin-left: 100px;
+}
